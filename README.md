@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###  🔭 I’m currently TRYING hard to Code ...
 <!--
 **remmTEN/remmTEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
